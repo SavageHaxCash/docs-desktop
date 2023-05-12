@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -14,7 +14,7 @@
     <PackageReference Include="Microsoft.Extensions.Caching.SqlServer" Version="6.0.5" />
     <PackageReference Include="Microsoft.SqlServer.Management.SqlParser" Version="160.22504.0" />
     <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="161.47008.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
 </Project>
